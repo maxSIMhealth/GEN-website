@@ -1,0 +1,47 @@
+baseURL: http://maxsimgen.com/
+languageCode: en-us
+title: GEN
+theme: "PaperMod"
+params:
+    ShowBreadCrumbs: false
+    profileMode:
+        enabled: true
+        title: "GEN" # optional default will be site title
+        subtitle: "Gamified Educational Network"
+        imageUrl: "/logo-GEN.png" # optional
+        imageTitle: "GEN logo" # optional
+        imageWidth: 120 # custom size
+        imageHeight: 120 # custom size
+        buttons:
+          - name: About
+            url: "/about"
+          - name: Publications
+            url: "/publications"
+          - name: Literature
+            url: "/literature"
+          - name: Studies
+            url: "/studies"
+          - name: Video
+            url: "/video"
+          - name: Contact
+            url: "/contact"
+          # - name: Search
+          #   url: "/search"
+    # socialIcons: # optional
+    #     - name: "github"
+    #       url: "https://www.github.com/maxsimhealth/GEN"
+# outputs:
+#   home:
+#     - HTML
+#     - RSS
+#     - JSON
+menu:
+    main:
+        - identifier: github
+          name: github
+          url: https://www.github.com/maxsimhealth/gen
+          weight: 10
+        - identifier: maxSIMhealth
+          name: maxSIMhealth
+          url: https://www.maxsimhealth.com
+          weight: 20
