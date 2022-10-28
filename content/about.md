@@ -1,10 +1,10 @@
 ---
 title: "About"
-date: 2022-07-14T16:11:14-04:00
+date: 2022-10-28T16:11:14-04:00
 draft: false
 description: What is GEN?
 ---
-GEN is a virtual learning management system that relies on principles of active observational practice, sharing of videos, and peer-to-peer, expert facilitated feedback. 
+GEN (Gamified Educational Network) is a virtual learning management system that relies on principles of active observational practice, sharing of videos, and peer-to-peer, expert facilitated feedback. 
 
 ![How does GEN work?](/how_does_GEN_work.jpeg)
 
